@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have been working in the IT industry for more than 16 years. During this time; I gained a lot of experience in .Net Framework and .Net Core, Microservices, C#, LINQ, Entity Framework, MongoDB(NoSQL), OOP, Design Patterns, T-SQL, SQL Server, WPF, ASP.NET MVC/Web Forms, WebApi, RESTFul, Json, Angular 9+, Redis, Unit Testing, TFS, Azure DevOps, Git, Docker, Kubernetes, Python, SSIS, SSRS, SSAS, JQuery, Html5, CSS3, Ajax, and Javascript. <br><br>I share my knowledge in this area. Also, you find my blogs on medium.com
+I have been working in the IT industry for more than 16 years. During this time; I gained a lot of experience in .Net Framework and .Net Core, Microservices, C#, LINQ, Entity Framework, MongoDB(NoSQL), OOP, Design Patterns, T-SQL, SQL Server, WPF, ASP.NET MVC/Web Forms, WebApi, RESTFul, Json, Angular 9+, React, Redis, Unit Testing, TFS, Azure DevOps, Git, Docker, Kubernetes, Python, SSIS, SSRS, SSAS, JQuery, Html5, CSS3, Ajax, and Javascript. <br><br>I share my knowledge in this area. Also, you find my blog posts on medium.com
 
 
 ## 🌐 Socials:
